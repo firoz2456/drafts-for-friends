@@ -16,16 +16,9 @@ You can generate unique links for drafts, schdeuled post and pending post. You c
 3. You can access `draftsforfriends` via `WP-Admin -> Posts -> Drafts for Friends`
 
 
-== Screenshots ==
-
-1. Administrator Page
-2. Extended the expiry
-3. Previewing shared draft
-
-
 == Changelog ==
 
-= 2.3.0 =
+= 1.0.0 =
 * Added Author Name and other header information
 * Update deprecated WordPress functions
 * Added new column "Expires After"
